@@ -1,0 +1,56 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/For loop and lists/Count occurrences/out/
+/Topics/For loop and lists/Count occurrences/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/Print all elements/out/
+/Topics/For loop and lists/Print all elements/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and lists/Theory/out/
+/Topics/For loop and lists/Theory/out/production/classes/
+/Topics/For loop and ranges/Count the numbers/out/
+/Topics/For loop and ranges/Count the numbers/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/For-loop definitions/out/
+/Topics/For loop and ranges/For-loop definitions/out/production/classes/
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/For loop and ranges/The product of numbers from a to b/out/
+/Topics/For loop and ranges/The product of numbers from a to b/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/For loop and ranges/The sum of N numbers/out/
+/Topics/For loop and ranges/The sum of N numbers/out/production/classes/
+/Topics/For loop and ranges/Theory/out/
+/Topics/For loop and ranges/Theory/out/production/classes/
+/Topics/Introduction to MutableList/Printing the last element/out/
+/Topics/Introduction to MutableList/Printing the last element/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Introduction to MutableList/Theory/out/
+/Topics/Introduction to MutableList/Theory/out/production/classes/
+/Topics/Multi-dimensional list/Corners/out/
+/Topics/Multi-dimensional list/Corners/out/production/classes/
+/Topics/Multi-dimensional list/Indexing rules/out/
+/Topics/Multi-dimensional list/Indexing rules/out/production/classes/
+/Topics/Multi-dimensional list/Initialization rules/out/
+/Topics/Multi-dimensional list/Initialization rules/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Multi-dimensional list/Theory/out/
+/Topics/Multi-dimensional list/Theory/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/The try-catch-finally statement/Complex handling/out/
+/Topics/The try-catch-finally statement/Complex handling/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
